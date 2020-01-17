@@ -1,4 +1,4 @@
-# vhost_creator
+# Arch Linux vhost_creator
 Create and modify of required files
 
 # how to use
