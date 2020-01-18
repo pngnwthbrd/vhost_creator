@@ -11,7 +11,7 @@ def createVHOST(argv):
         except IndexError:
                 print('missing argument - plese enter a vhost name')
         else:
-                with open('vhost_creator_conf.json', 'r') as cf:
+                with open('/usr/share/vhost_creator_conf.json', 'r') as cf:
                         conf = json.load(cf)
                         
                 path = conf['server_path'] + vhost_name
