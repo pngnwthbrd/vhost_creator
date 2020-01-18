@@ -19,5 +19,5 @@ Check the config file **/usr/share/vhost_creator/vhost_creator_cons.json**
 
 # how to use
 ```
-# vhost_creator.py my-domain-name
+# vhost_creator my-domain-name
 ```
