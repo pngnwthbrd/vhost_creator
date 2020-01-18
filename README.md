@@ -15,7 +15,7 @@ if its ready do
 
 Check the config file **/usr/share/vhost_creator/vhost_creator_cons.json**  
 ```server_path``` where your vhost location is located  
-```user``` you http user
+```user``` your http user
 
 # how to use
 ```
